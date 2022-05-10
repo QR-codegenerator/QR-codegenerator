@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: qr-codegenerator.github.io
+Token: 81da2e5987371d6f332160b262906d57f1de8922475e542d4ad3257cc938d439
